@@ -11,7 +11,7 @@ The DNN model for the detection is deployed on MAX78000;
 and the I/O devices include a camera and a screen for image acquisition and output exhibition, respectively. 
 
 <div align=center>
-<img width="450" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/GUI_pipeline.png">
+<img width="450" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/sys_config-p.png">
 </div>
 
 ### Camera Demo ai8x Environment Installation
@@ -34,5 +34,5 @@ Switch on the MAX78000 and click on **Start Demo** on the MAX78000 screen. Point
 Once you have setup the testing bed, you can see the detection results in real-time on the MAX78000 screen, including the inference time and the detected class label, as follows: 
 
 <div align=center>
-<img width="250" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/real_results_more.png">
+<img width="250" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/real_results1.png">
 </div>
