@@ -28,11 +28,11 @@ openocd -s /your_relative_path/MaximSDK/Tools/OpenOCD/scripts/ -f interface/cmsi
 Switch on the MAX78000 and click on **Start Demo** on the MAX78000 screen. Point the camera in the direction of the object you want to detect. The images are captured using the camera and the object detection results are displayed in real-time on the screen attached to the MAX78000 board. Here is the experimental setup, named as the **testing bed**, that we used for real-time detection.
 
 <div align=center>
-<img width="250" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/testing_bed.png">
+<img width="450" height="400" src="https://github.com/datamllab/BED_camera/blob/main/figures/testing_bed.png">
 </div>
 
 Once you have setup the testing bed, you can see the detection results in real-time on the MAX78000 screen, including the inference time and the detected class label, as follows: 
 
 <div align=center>
-<img width="700" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/real_results1.png">
+<img width="850" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/real_results1.png">
 </div>
