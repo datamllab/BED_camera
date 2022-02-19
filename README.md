@@ -34,5 +34,5 @@ Switch on the MAX78000 and click on **Start Demo** on the MAX78000 screen. Point
 Once you have setup the testing bed, you can see the detection results in real-time on the MAX78000 screen, including the inference time and the detected class label, as follows: 
 
 <div align=center>
-<img width="450" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/real_results1.png">
+<img width="700" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/real_results1.png">
 </div>
