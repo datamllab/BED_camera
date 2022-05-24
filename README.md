@@ -36,3 +36,6 @@ Once you have setup the testing bed, you can see the detection results in real-t
 <div align=center>
 <img width="850" height="200" src="https://github.com/datamllab/BED_camera/blob/main/figures/real_results1.png">
 </div>
+<div align=center>
+<img width="850" height="400" src="https://github.com/datamllab/BED_camera/blob/main/figures/real_results2.png">
+</div>
